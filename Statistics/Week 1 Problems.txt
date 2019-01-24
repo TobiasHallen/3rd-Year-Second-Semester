@@ -1,0 +1,12 @@
+1a - 10! = 3628800
+1b - 9!*2! = 725760														- treat the pair as 1 item, with 2! permutations
+1c - 6!/(3!*2!*1!) = 60
+1d - 5 choose 3 = 10
+
+2a - 6^4 = 1296
+2b - (4 choose 2) * 5^2 = 150
+2c - (4 choose 2) * 5^2 + (4 choose 3)*5 + (4 choose 4) = 171
+
+3a - 8!/(2!^4) = 2520
+3b - 4 choose 2 = 6
+3c - (2+2-1) choose 2 = 3    (2 multichoose 2)							-either heart pair, diamond pair or 1 heart 1 diamond  
